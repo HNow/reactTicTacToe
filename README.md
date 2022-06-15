@@ -1,2 +1,2 @@
 # reactTicTacToe
-Quick React excersize
+Quick React exercise
